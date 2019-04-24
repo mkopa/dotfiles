@@ -1,0 +1,2 @@
+Copy files: .muttrc .mailcap and directory: .mutt to $HOME
+Install w3m for parsing html mails
