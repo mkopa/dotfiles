@@ -249,6 +249,12 @@
             "name" : "Akadera",
             "notifications" : true,
             "url" : "http://stream4.nadaje.com:11846"
+         },
+         {
+            "image" : "",
+            "name" : "Antyradio",
+            "notifications" : true,
+            "url" : "http://ant-waw-01.cdn.eurozet.pl:8602"
          }
       ]
    }
