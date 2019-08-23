@@ -255,6 +255,12 @@
             "name" : "Antyradio",
             "notifications" : true,
             "url" : "http://ant-waw-01.cdn.eurozet.pl:8602"
+         },
+         {
+            "image" : "",
+            "name" : "Radio Free Brooklyn",
+            "notifications" : true,
+            "url" : "http://192.111.140.6:9300/stream"
          }
       ]
    }
