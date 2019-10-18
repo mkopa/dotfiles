@@ -261,6 +261,18 @@
             "name" : "Radio Free Brooklyn",
             "notifications" : true,
             "url" : "http://192.111.140.6:9300/stream"
+         },
+         {
+            "image" : "",
+            "name" : "Polskie Radio 1",
+            "notifications" : true,
+            "url" : "http://stream.polskieradio.pl:80/program1"
+         },
+         {
+            "image" : "",
+            "name" : "TOK FM",
+            "notifications" : true,
+            "url" : "http://poznan5-4.radio.pionier.net.pl:8000/tuba10-1.mp3?cache=1571401283_redir__e1_"
          }
       ]
    }
